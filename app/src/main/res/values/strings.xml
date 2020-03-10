@@ -7,5 +7,9 @@
     <string name="local">Local :</string>
     <string name="selecione">SELECIONE</string>
     <string name="salvar">Salvar</string>
+    <string name="dataum">Data1</string>
+    <string name="datadois">Data2</string>
+    <string name="botao1">B1</string>
+    <string name="botao2">B2</string>
     <string name="campoVazio"></string>
 </resources>
